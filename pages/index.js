@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next JS
+          Next JS Apps
         </h1>
 
         <p className={styles.description}>
