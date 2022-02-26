@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Next.js + D3 Demo App{' '}
+          Next.js + D3 Demo Apps{' '}
     
         </p>
 
