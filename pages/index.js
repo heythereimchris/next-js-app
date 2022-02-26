@@ -15,11 +15,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next.js + D3
+          D3 + Next.js Test
         </h1>
 
         <p className={styles.description}>
-          Next.js + D3 Demo App{' '}
+          Next.js + D3 Demo Apps{' '}
     
         </p>
 
